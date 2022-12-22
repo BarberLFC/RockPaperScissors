@@ -8,11 +8,11 @@ const randomComputer = Math.floor(Math.random() * getComputerChoice.length);
 console.log(randomComputer, getComputerChoice[randomComputer]);
 
 
-const getPlayerChoice = ["p-rock", "p-paper", "p-scissors"];
+//const getPlayerChoice = ["p-rock", "p-paper", "p-scissors"];
 //choose one at random
-const randomPlayer = Math.floor(Math.random() * getPlayerChoice.length);
+//const randomPlayer = Math.floor(Math.random() * getPlayerChoice.length);
 //log the selection in console
-console.log(randomPlayer, getPlayerChoice[randomPlayer]);
+//console.log(randomPlayer, getPlayerChoice[randomPlayer]);
 
 //generate the player selection
 //log the player selection to console
